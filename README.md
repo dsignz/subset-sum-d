@@ -1,2 +1,2 @@
-This is my first attempt writing a D program, and using github. 
-
+My first commit to github. 
+A D program.
